@@ -28,11 +28,6 @@ Daily rain probability (%)
 
 🚀 Usage
 
-Clone the repository:
-
-git clone https://github.com/your-username/weather-dashboard.git
-
-
 Open Weather.pbit in Power BI Desktop.
 
 Connect to your weather data source (API or dataset).
