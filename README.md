@@ -1,3 +1,5 @@
+<img width="1118" height="627" alt="Weather Dashboard Snapshot" src="https://github.com/user-attachments/assets/61173d4d-b3e3-47a1-9c6e-80e4b485b0d7" />
+
 🌦️ Weather Dashboard (Power BI)
 
 An interactive Weather Dashboard built with Power BI, showcasing real-time and forecasted weather conditions in a modern and minimal UI. The dashboard provides insights into temperature trends, air quality, rainfall chances, and other key weather metrics.
