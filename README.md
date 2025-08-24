@@ -1,39 +1,58 @@
 🌦️ Weather Dashboard (Power BI)
 
-This project presents an interactive Weather Dashboard built in Power BI, designed to visualise real-time and forecasted weather conditions with a clean and modern interface.
-
-The dashboard offers a comprehensive view of current weather, air quality, and weekly forecasts, making it useful for both personal and professional purposes.
+An interactive Weather Dashboard built with Power BI, showcasing real-time and forecasted weather conditions in a modern and minimal UI. The dashboard provides insights into temperature trends, air quality, rainfall chances, and other key weather metrics.
 
 📸 Dashboard Preview
 
-📂 Project Files
+📂 Files
 
-Weather.pbit → Power BI Template File (can be opened with Power BI Desktop).
+Weather.pbit → Power BI Template File
 
-Weather Dashboard Snapshot.png → Static preview of the dashboard.
+Weather Dashboard Snapshot.png → Static preview
 
 ✨ Features
 
-✅ Current Weather Overview (Temperature, Rain Status, Thunderstorm Alerts)
-✅ Forecast Weather (Weekly temperature trends with highs & lows)
-✅ Air Quality Index (AQI) with detailed pollutant breakdown (PM10, PM2.5, CO, SO2, O3, NO2)
-✅ Sunrise & Sunset Timings
-✅ Humidity, Wind Speed, Visibility, Pressure & UV Index
-✅ Chance of Rain (%) for upcoming days
-✅ Interactive & visually appealing UI
+Current temperature & weather status
 
-📊 Metrics Displayed
+7-day forecast with highs & lows
 
-🌡️ Temperature (current & forecast)
+Air Quality Index with pollutant breakdown (PM10, PM2.5, CO, SO2, O3, NO2)
 
-💨 Wind Speed
+Sunrise & sunset timings
 
-💧 Humidity & Precipitation
+Humidity, wind speed, visibility, pressure, UV index
 
-👀 Visibility
+Daily rain probability (%)
 
-🔆 UV Index
+🚀 Usage
 
-🏞️ Air Quality Index with category (Good, Moderate, Poor, etc.)
+Clone the repository:
 
-🌅 Sunrise & Sunset Times
+git clone https://github.com/your-username/weather-dashboard.git
+
+
+Open Weather.pbit in Power BI Desktop.
+
+Connect to your weather data source (API or dataset).
+
+Interact with the dashboard.
+
+🛠️ Tools
+
+Power BI Desktop
+
+DAX & Power Query
+
+Weather APIs / Datasets
+
+📌 Applications
+
+Personal weather & air quality tracking
+
+Business operations (logistics, agriculture, events)
+
+Data analytics portfolio projects
+
+📜 License
+
+Licensed under the MIT License.
